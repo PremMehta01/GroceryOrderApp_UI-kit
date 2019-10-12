@@ -197,7 +197,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentRight="true"
-                                android:background="#E94040"
+                                android:background="@drawable/red_button_shape"
                                 android:text="ADD"
                                 android:textColor="#fff" />
                         </RelativeLayout>
@@ -273,7 +273,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentRight="true"
-                                android:background="#E94040"
+                                android:background="@drawable/red_button_shape"
                                 android:text="ADD"
                                 android:textColor="#fff" />
                         </RelativeLayout>
@@ -343,7 +343,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentRight="true"
-                                android:background="#E94040"
+                                android:background="@drawable/red_button_shape"
                                 android:text="ADD"
                                 android:textColor="#fff" />
                         </RelativeLayout>
